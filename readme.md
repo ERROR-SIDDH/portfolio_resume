@@ -1,33 +1,50 @@
 # Sidharth's Portfolio Website
 
-Welcome to **Sidharth's Portfolio Website**! This is a personal portfolio showcasing my work as a Cybersecurity Researcher and my expertise in digital defense and threat mitigation.
+Welcome to **Sidharth's Portfolio Website**! This is a personal portfolio showcasing my work as a Cybersecurity Researcher, highlighting my expertise in digital defense, threat mitigation, and innovative solutions.
 
 ---
 
-## 🌟 Features
+## 🌟 Key Features
 
-- **Responsive Design**: The website works seamlessly across all devices.
-- **SEO Optimized**: Includes meta tags, Open Graph tags, and a sitemap for better search engine visibility.
-- **Interactive Background**: Features a dynamic canvas background for a modern and engaging user experience.
-- **Social Media Integration**: Links to my social media profiles for easy connection.
-- **Structured Data**: Includes JSON-LD structured data for better search engine understanding.
+- **Responsive Design**: Optimized for seamless performance across all devices.
+- **SEO Optimization**: Enhanced with meta tags, Open Graph tags, and a sitemap for improved search engine visibility.
+- **Dynamic Background**: A visually engaging interactive canvas background.
+- **Social Media Integration**: Quick access to my social media profiles for easy networking.
+- **Structured Data**: Includes JSON-LD for better search engine comprehension.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies & Tools
 
-- **HTML5**: For the structure of the website.
-- **CSS3**: For styling and layout.
-- **JavaScript**: For interactivity and animations.
+- **Core Technologies**:
+    - **HTML5**: Provides the structural foundation of the website.
+    - **CSS3**: Ensures modern styling and layout.
+    - **JavaScript**: Powers interactivity and animations.
 - **Libraries/Frameworks**:
-  - [Normalize.css](https://necolas.github.io/normalize.css/) - For cross-browser consistency.
-  - [Three.js](https://threejs.org/) - For rendering the interactive background.
+    - [Normalize.css](https://necolas.github.io/normalize.css/) - Ensures cross-browser consistency.
+    - [Three.js](https://threejs.org/) - Enables the creation of the interactive background.
 
-
-
+---
 
 ## 🌐 Sitemap
 
-A `sitemap.xml` file is included in the project to improve SEO by helping search engines crawl and index the website efficiently. Below is the content of the `sitemap.xml`:
+A `sitemap.xml` file is included to enhance SEO by enabling efficient crawling and indexing by search engines.
 
-# LIVE DEMO # [CLICK HERE](https://portfolio-resume-91o.pages.dev/)
+---
+
+## 🚀 Live Demo
+
+Experience the website live: [Click Here](https://portfolio-resume-91o.pages.dev/)
+
+---
+
+## 📬 Get in Touch
+
+Feel free to connect with me or learn more about my work:
+
+- **Email**: [err@titansec.team](mailto:err@titansec.team)
+- **LinkedIn**: [msidharth](https://linkedin.com/in/msidharth)
+- **Instagram**: [sidd.err](https://instagram.com/sidd.err)
+- **GitHub**: [ERROR-SIDDH](https://github.com/ERROR-SIDDH)
+
+Thank you for visiting my portfolio! 😊
